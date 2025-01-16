@@ -60,3 +60,7 @@ load_dotenv()  # Load environment variables from .env file
 API_KEY = os.getenv("API_KEY") 
 
 # ... rest of your code ...
+
+
+
+Link for a detailed video: https://youtu.be/BpRdArUiYbk
