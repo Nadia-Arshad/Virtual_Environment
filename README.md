@@ -49,6 +49,8 @@ This README will guide you through setting up your development environment for t
 * Create a new Python file (e.g., `main.py`) within your project folder.
 * Write your project's logic in this file, utilizing the installed dependencies and your environment variables.
 
+Link for a detailed video: https://youtu.be/BpRdArUiYbk
+
 **Code Example (Illustrative):**
 
 ```python
@@ -63,4 +65,3 @@ API_KEY = os.getenv("API_KEY")
 
 
 
-Link for a detailed video: https://youtu.be/BpRdArUiYbk
